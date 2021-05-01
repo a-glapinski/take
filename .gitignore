@@ -145,3 +145,4 @@ nbdist/
 
 # End of https://www.toptal.com/developers/gitignore/api/netbeans,intellij+all,maven,java,java-web
 
+faces-config.NavData
