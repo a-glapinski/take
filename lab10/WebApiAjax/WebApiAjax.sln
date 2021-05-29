@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAjax", "WebApiAjax\WebApiAjax.csproj", "{A3A578E5-4E5B-4C6D-AC58-D734956DA5D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3A578E5-4E5B-4C6D-AC58-D734956DA5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A578E5-4E5B-4C6D-AC58-D734956DA5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A578E5-4E5B-4C6D-AC58-D734956DA5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A578E5-4E5B-4C6D-AC58-D734956DA5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {371940C3-78B0-47E2-BC6C-E816A7B5B2C4}
+	EndGlobalSection
+EndGlobal
